@@ -1,0 +1,1 @@
+Run the executable as admin, or run the python script in similar fashion.
